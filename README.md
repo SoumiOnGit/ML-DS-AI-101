@@ -1,1 +1,1 @@
-# ML-DS-AI-internship
+# ML-DS-AI-101 
