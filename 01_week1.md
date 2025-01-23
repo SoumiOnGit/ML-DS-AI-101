@@ -1,4 +1,4 @@
-# Week 1 Plan: Math Basics – Linear Algebra and Probability/Statistics
+# Week 1 Plan: Math Basics – Linear Algebra and Probability/Statistic
 
 ## Day 1-2: Introduction to Linear Algebra
 
